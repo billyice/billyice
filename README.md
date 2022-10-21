@@ -1,4 +1,4 @@
-- 👋 Computer science instructor at Fulton-Montgomery Community College
+👋 Computer science instructor at Fulton-Montgomery Community College
 
 <!---
 - 👀 I’m interested in ...
